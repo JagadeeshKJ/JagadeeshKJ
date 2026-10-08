@@ -6,7 +6,7 @@ I'm a Full-Stack Developer with 3+ years of experience building enterprise web a
 - ☁️ Azure & cloud development
 - 🤖 Exploring AI engineering, LLM applications & agentic workflows
 - 🚀 Interested in building reliable, scalable software
-- 📫 Reach me: jagadeesh10th@gmail.com
+- 📫 Reach me: jagadeesh.kj.dev@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/jagadeesh-kj/)
 - ✍️ [Dev Blog](https://dev.to/jagadeeshkj)
 - 🌐 [Portfolio](https://jagadeeshkj.hashnode.dev/)
