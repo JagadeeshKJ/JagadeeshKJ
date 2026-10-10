@@ -1,6 +1,6 @@
 # Hi, I'm Jagadeesh Koyya 👋
 
-I'm a Full-Stack Developer with 3+ years of experience building enterprise web applications.
+I'm a Full-Stack Developer with 3.5+ years of experience building enterprise web applications.
 
 - 💻 React.js, JavaScript, C#, ASP.NET Core & SQL
 - ☁️ Azure & cloud development
